@@ -1,0 +1,18 @@
+
+.list-group, .list-group-item {
+    width:70%;
+    border-style: double;
+    border-color: black;
+    background-color: cornflowerblue;
+}
+
+.list-group-item {
+    width: 100%;
+}
+ .list-group :hover {
+    background-color: cadetblue;
+}
+
+body {
+    margin: 30px;
+}
