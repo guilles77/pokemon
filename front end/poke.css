@@ -1,9 +1,26 @@
+body {
+margin: 30px;
+} 
+
+
+div {
+    flex-wrap: wrap;
+    border: solid;
+    border-color: black;
+    background-color: rgb(98, 167, 149);
+    margin-left: 20%;
+
+}
+
 
 .list-group, .list-group-item {
-    width:70%;
+
+    
     border-style: double;
     border-color: black;
     background-color: rgb(72, 182, 154);
+    margin: 10px;
+
 }
 
 .list-group-item {
@@ -13,15 +30,3 @@
     background-color: cadetblue;
 }
 
-body {
-    margin: 30px;
-}
-
-div {
-
-    border: solid;
-    border-color: black;
-    width: 70%;
-    background-color: rgb(98, 167, 149);;
-
-}
