@@ -1,0 +1,50 @@
+body {
+margin: 30px;
+border: 2px solid red;
+} 
+
+
+div {
+    display: flex;
+    border: solid;
+    border-color: black;
+    flex-direction: column;   
+    align-items: flex-end;
+  
+    
+}
+
+.poke {
+    border-color: black;
+    border-style: solid;
+}
+
+.first {
+    border-style: double;
+    border-color: black;
+    background-color: rgb(72, 182, 154);
+    margin: 10px;
+    border-radius: 8%;
+    width: 50%;
+    align-self: flex-start;
+}
+
+.list-group, .list-group-item {
+
+    border-radius: 8%;
+    border-style: double;
+    border-color: black;
+    background-color: rgb(72, 182, 154);
+    margin-bottom: 1%;
+    margin-right: 5%;
+    width: 50%;
+
+}
+
+.list-group-item {
+    
+}
+ .list-group :hover {
+    background-color: cadetblue;
+}
+
