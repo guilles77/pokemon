@@ -6,6 +6,18 @@ var poke4 = []
 var poke5 = []
 var poke6 = []
 
+// function clearPoke () {
+// if (document.getElementById('first') = true) {
+//     document.querySelector("#poke1img").src = ''
+
+// }
+
+
+// }
+
+
+
+
 document.getElementById('check').addEventListener('click',checkPoke);
 
     function checkPoke  () {
