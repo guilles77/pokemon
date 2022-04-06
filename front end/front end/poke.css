@@ -14,6 +14,17 @@ div {
     
 }
 
+#poke {
+    border-style: double;
+    border-color: black;
+    background-color: rgb(72, 182, 154);
+    margin: 10px;
+    border-radius: 8%;
+    width: 25%;
+    align-self: flex-start;  
+
+}
+
 .poke {
     border-color: black;
     border-style: solid;
@@ -25,8 +36,8 @@ div {
     background-color: rgb(72, 182, 154);
     margin: 10px;
     border-radius: 8%;
-    width: 50%;
-    align-self: flex-start;
+    width: 25%;
+    align-self: flex-start;    
 }
 
 .list-group, .list-group-item {
@@ -37,7 +48,7 @@ div {
     background-color: rgb(72, 182, 154);
     margin-bottom: 1%;
     margin-right: 5%;
-    width: 50%;
+    width: 25%;
 
 }
 
