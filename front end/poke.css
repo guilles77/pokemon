@@ -1,6 +1,8 @@
 body {
 margin: 30px;
 border: 2px solid red;
+font-family: 'Oswald', sans-serif;
+
 } 
 
 
@@ -21,7 +23,7 @@ div {
     margin: 10px;
     border-radius: 8%;
     width: 25%;
-    align-self: flex-start;  
+   
 
 }
 
@@ -37,7 +39,8 @@ div {
     margin: 10px;
     border-radius: 8%;
     width: 25%;
-    align-self: flex-start;    
+    align-self: flex-start;
+    
 }
 
 .list-group, .list-group-item {
